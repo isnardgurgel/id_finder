@@ -1,0 +1,4 @@
+[global]
+dataFrameSerialization = "legacy"
+disableWatchdogWarning = true
+showWarningOnDirectExecution = false
